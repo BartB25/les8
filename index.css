@@ -1,0 +1,46 @@
+/*fonts */
+@font-face {
+    font-family:super shiny;
+    src: url(/fonts/SuperShiny.ttf);
+}
+
+
+
+
+body {
+    background-color: grey;
+    color:white;
+}
+
+h1, h2 {
+    font-family: super shiny;
+}
+p {
+    font-size: 20 px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2, .alinea2 {
+    color:rgb(172, 233, 233);
+}
+
+h3{
+    text-align: center;
+}
+
+.alinea2 {
+    font-size: 15px;
+}
+
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    margin-left: 5px;
+}
+
+img {
+    height: 350px;
+    width: auto;
+    margin-right: 5px;
+}
