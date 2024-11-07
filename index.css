@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+    color:white;
+}
+
+h1, h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-size: 20 px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2, .alinea2 {
+    color:rgb(172, 233, 233);
+}
+
+.alinea2 {
+    font-size: 15px;
+}
